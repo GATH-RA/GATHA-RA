@@ -1,95 +1,34 @@
-<p align="center">
-  <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
-    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
-    </p>
-<h1 align="center">ELITE-PRO</h1>
-<p align="center"> 
-    </p>
-<p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-      
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
-   
- ---
+# GATHARA-XTECH
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=1BAFBAFF&center=true&width=1100&height=150&lines=GATHARA-+XTECH+BOT" alt="Typing SVG" /></a>
+  </p>
 
-## DEPLOYMENT METHODS
 
-- Click on **[FORK](https://github.com/elite-md/ELITEPRO/fork)**
-- Click here to get **[SESSION_ID](https://elitepro-session.onrender.com)**
-- Uploading session_id (Creds.json) in session folder.
-- Edit settings.js to your preference
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=GATHARA+XTECH+TEAM+;KEEP+USING+POPKID+MD" alt="Typing SVG" /></a>
+  
 
-## FOR PANEL DEPLOYMENT
+# ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
+</a></p
+- <a href="https://github.com/GATHA-RA/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/></a></p>
 
-- Download zip file🗃️
-- Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
-- Create a server
-- Upload zip file 🗃️ 
-- Start server
-- Click here to deploy on **[Render](https://render.com)**
+# ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
+</a></p>
+- <a href="https://fredietech.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/SCAN CODE HERE-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=tesla&logoColor=blue" width="240" height="38.45"/></a></p>
 
----
+# ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ
 
-## FOR TERMUX/SSH/UBUNTU
-```
-Before inputting these commands in termux... You have to extract the bot file in your internal storage. (Downloads folder)
+</a></p>
+- <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-rgb(224, 255, 255)?style=for-the-badge&logo=tesla&logoColor=black' width="240" height="38.45"/></a>
 
-apt update && apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-pkg install yarn
-termux-setup-storage
-cd /storage/emulated/0/Download/ELITEPRO-master
-yarn install
-npm start
-```
----
+# ᴅᴇᴘʟᴏʏ ʙᴏᴛ
+- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GATH-RA/VERMIN.git"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-red?style=for-the-badge&logo=tesla" width="220" height="38.45"/></a></p>
 
-## FOR STARTING TERMUX AGAIN
-```
-cd /storage/emulated/0/Download/ELITEPRO-master
-npm start
-```
----
+***BOT UPDATED FUTURES 🎁***
 
-## FOR 24/7 ACTIVATION TERMUX/SSH/UBUNTU
-```
-bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-Paste this after the installation
-```
----
+| Commands Name              |Yes  |
+| ---------------------------| ----|
+|
 
-<p align="Left">
-    <a align="center">
-  <a aria-label="WEBSITE" href="https://elite-production.vercel.app" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
-</a>
-<a aria-label="OTHER REPO" href="https://github.com/elite-md/Elite-Pro-V2" target="_blank">
-    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-  ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
